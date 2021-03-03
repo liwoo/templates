@@ -19,14 +19,10 @@ Please delete options that are not relevant.
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
-- [ ] Test A
-- [ ] Test B
-
-**Test Configuration**:
-* Firmware version:
-* Hardware:
-* Toolchain:
-* SDK:
+- [ ] Unit Test
+- [ ] Functional Test
+- [ ] ntegration Test
+- [ ] Manual Test
 
 ## Checklist:
 
@@ -39,3 +35,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] I have checked my code and corrected any misspellings
+
+## Architecture Diagram
+A diagram that shows how your fix/feature fits into the architecture. It could be a sequence diagram, database schema design, folder structure, network diagram, or anything that lets us visualize your change!
+
